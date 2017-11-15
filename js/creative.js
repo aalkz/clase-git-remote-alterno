@@ -1,6 +1,6 @@
 (function($) {
   //animation!
-  //más animación!
+  //menu animation
   "use strict"; // Start of use strict
 
   // Smooth scrolling using jQuery easing
